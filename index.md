@@ -1,5 +1,5 @@
 ---
-title: Welcome to Daniel's blog
+title: Daniel's Blog
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to my blog! I'm currently transitioning from a background in SEO and content management to web development, and this space is where I'll share my journey. As I learn and grow in the dev world, I'll be documenting key projects, insights, and challenges, from front-end experiments to deeper dives into the world of web technologies. I hope this blog serves as a resource for fellow learners and tech enthusiasts, and I’m excited to connect with others on this journey!
